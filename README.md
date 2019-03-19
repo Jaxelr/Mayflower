@@ -1,4 +1,4 @@
-# Minimig
+# This repo has been archived, work will continue on the [following repo:](https://github.com/Jaxelr/Minimig)
 
 *** This library is a fork from Mayflower.net which seems to be [inactive](https://github.com/bretcope/Mayflower.NET)
 
